@@ -1,0 +1,20 @@
+{
+  "name": "react-native-poker-stove-lib",
+  "version": "1.0.2",
+  "description": "This is ReactNative wrapper for poker stove c++ library developed by Andrew Prock. This code is publicly available at https://github.com/andrewprock/pokerstove",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native", "poker", "stove", "saachitech", "react-native-poker-stove-lib"
+  ],
+  "author": "Sameer Jain",
+  "license": "MIT",
+  "devDependencies": {
+    "react-native": "0.41.2"
+  },
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
